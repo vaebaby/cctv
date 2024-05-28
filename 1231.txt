@@ -135,6 +135,7 @@ CETV4,http://125.34.185.54:10000/rtp/239.3.1.56:4120
 魅力时尚,http://125.34.185.54:10000/rtp/239.3.1.196:9012
 
 台湾,#genre#
+
 17,http://61.221.215.25:8800/hls/36/index.m3u8
 20,http://61.221.215.25:8800/hls/39/index.m3u8
 21,http://61.221.215.25:8800/hls/40/index.m3u8
@@ -155,4 +156,9 @@ CETV4,http://125.34.185.54:10000/rtp/239.3.1.56:4120
 38,http://61.221.215.25:8800/hls/57/index.m3u8
 39,http://61.221.215.25:8800/hls/58/index.m3u8
 41,http://61.221.215.25:8800/hls/60/index.m3u8
+114,http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
+115,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+116,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+117,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
+
 
